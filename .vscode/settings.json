@@ -1,0 +1,10 @@
+{
+    "arduino.path": "D:/ProgramData/Arduino",
+    "arduino.commandPath": "arduino_debug.exe",
+    "arduino.logLevel": "info",
+    "arduino.allowPDEFiletype": false, 
+    "arduino.enableUSBDetection": true,
+    "arduino.disableTestingOpen": false,
+    "arduino.additionalUrls": [],
+    "arduino.defaultBaudRate": 115200
+}

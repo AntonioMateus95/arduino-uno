@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "programmer": "AVR ISP",
+    "port": "COM3",
+    "sketch": "sketch_interruptor_luz\\sketch_interruptor_luz.ino"
+}
